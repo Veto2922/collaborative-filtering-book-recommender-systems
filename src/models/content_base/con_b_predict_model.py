@@ -1,6 +1,5 @@
 import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
+
 import numpy as np
 
 
@@ -32,8 +31,7 @@ def get_top_n_books(n):
 
 
 
-def recommmendation_by_id(book_id):   
-
+def recommmendation_by_id(book_id): 
     try: 
         recomm_movies= pd.DataFrame(sim_martix[book_id].sort_values(ascending=True).head(10)).reset_index()[1:]
         recom_df = pd.DataFrame(columns=books_df.columns)
