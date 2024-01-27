@@ -24,6 +24,10 @@ For a detailed walkthrough, please refer to the project article: [Book Recommend
 ![RS2](https://github.com/Veto2922/hybrid-based-book-recommender-systems/assets/114834171/bc9c011d-4c38-4108-9c63-156e7f4bac58)
 
 
+## Project block diagram:
+![Block digram](https://github.com/Veto2922/hybrid-based-book-recommender-systems/assets/114834171/3646c290-647b-4802-97c2-341a1eaa01eb)
+
+
 ### System Components
 
 1. **Data Exploration and Cleaning:** Involves preprocessing steps to ensure data quality and relevance by filtering out noise and enhancing dataset integrity.
