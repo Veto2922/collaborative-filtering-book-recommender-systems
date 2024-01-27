@@ -35,6 +35,9 @@ For a detailed walkthrough, please refer to the project article: [Book Recommend
 
 The project utilizes a subset of books available on Amazon, including user ratings and information compiled by Cai-Nicolas Ziegler in 2004. The dataset comprises three tables: users, books, and ratings, with explicit ratings ranging from 1 to 10 and implicit ratings expressed as 0.
 
+Data Source:
+https://www.kaggle.com/datasets/saurabhbagchi/books-dataset/data
+
 ## Content-Based Recommendation System
 
 Feature engineering is employed to unveil book popularity metrics, and a similarity matrix using cosine similarity is constructed to provide recommendations for new users based on book similarity.
