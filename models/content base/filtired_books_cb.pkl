@@ -403,7 +403,6 @@ ISBN,Title,Author,Publication_year,Publisher,Avg_rating,Rating_count,Book_image
 0679735739,The Information,Martin Amis,1996,Vintage Books USA,5.75,4,http://images.amazon.com/images/P/0679735739.01.LZZZZZZZ.jpg
 0399144803,Three Complete Novels: Daring to Dream/Holding the Dream/Finding the Dream (Dream),Nora Roberts,1999,Putnam Publishing Group,7.4,5,http://images.amazon.com/images/P/0399144803.01.LZZZZZZZ.jpg
 0312111029,The Year's Best Fantasy and Horror (Year's Best Fantasy &amp; Horror (Paperback)),Ellen Datlow,1994,St. Martin's Press,8.0,4,http://images.amazon.com/images/P/0312111029.01.LZZZZZZZ.jpg
-0441002935,The Lunatic Cafe (Anita Blake Vampire Hunter (Paperback)),Laurell K. Hamilton,2001,ACE Charter,5.0638297872340425,47,http://images.amazon.com/images/P/0441002935.01.LZZZZZZZ.jpg
 0373218478,The MacGregor Brides (Macgregors),Nora Roberts,2002,Silhouette,5.6,5,http://images.amazon.com/images/P/0373218478.01.LZZZZZZZ.jpg
 0679866655,The Berenstain Bears and the Dress Code (Berenstain Bears Big Chapter Book (Paper)),Stan Berenstain,1994,Random House Children's Books,6.0,1,http://images.amazon.com/images/P/0679866655.01.LZZZZZZZ.jpg
 0060259078,A Little Prairie House (Little House Picture Book),Laura Ingalls Wilder,1998,HarperCollins,10.0,1,http://images.amazon.com/images/P/0060259078.01.LZZZZZZZ.jpg
